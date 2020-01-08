@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c865a2fe-f8a1-4693-bcbf-d69c20cb428d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VwNiAxAVzjth7pPsHYHoSyExWH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/Custom/post" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jmetest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\jme-related\pbr-hovertank-test\src\main\resources\Custom\post" />
+      <recent name="D:\work\jme-related\pbr-hovertank-test\src\main\resources\Objects\tiles" />
+      <recent name="D:\work\jme-related\pbr-hovertank-test\src\main\resources\Custom" />
+      <recent name="D:\work\jme-related\pbr-hovertank-test\src\main\resources" />
+      <recent name="D:\work\jme-related\pbr-hovertank-test\assets\Custom" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestPBRLighting (1)">
+    <configuration name="TestPBRLighting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jme3test.light.pbr.TestPBRLighting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jme3test.light.pbr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPBRLighting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jmetest.TestPBRLighting" />
+      <module name="pbr-hovertank-test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jmetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPBRLighting (1)" />
+        <item itemvalue="Application.TestPBRLighting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c865a2fe-f8a1-4693-bcbf-d69c20cb428d" name="Default Changelist" comment="" />
+      <created>1578160321995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578160321995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1236" y="268" key="#TestPBRLighting" timestamp="1578161284222">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1236" y="268" key="#TestPBRLighting/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578161284222" />
+    <state x="722" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578220906837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1198" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578171539143" />
+    <state x="722" y="324" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578220906837" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578485826894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578485826894" />
+    <state width="1877" height="159" key="GridCell.Tab.0.bottom" timestamp="1578485925946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578171726618" />
+    <state width="1877" height="159" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578485925946" />
+    <state width="1877" height="159" key="GridCell.Tab.0.center" timestamp="1578485925945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578171726618" />
+    <state width="1877" height="159" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578485925945" />
+    <state width="1877" height="159" key="GridCell.Tab.0.left" timestamp="1578485925945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578171726618" />
+    <state width="1877" height="159" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578485925945" />
+    <state width="1877" height="159" key="GridCell.Tab.0.right" timestamp="1578485925945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578171726618" />
+    <state width="1877" height="159" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578485925945" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1578221099843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578221099843" />
+    <state x="-1264" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578171254728">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="345" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578171254728" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1578343372266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578343372266" />
+    <state x="570" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578343380448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1350" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1578161276956" />
+    <state x="570" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578343380448" />
+  </component>
+</project>

@@ -1,0 +1,57 @@
+buildscript {
+    /** ---------- JMonkeyEngine3 versions ---------- */
+
+    /** group */
+    ext.jmeOfficialBuildGroup = 'org.jmonkeyengine'
+    ext.jmeJitpackGroup ='com.github.jMonkeyEngine.jmonkeyengine'
+
+    /** version */
+    //ext.jmeOfficialVersion = '3.3.0-alpha1'
+    //ext.jmeOfficialVersion = '3.3.0-alpha5'
+    ext.jmeOfficialVersion = '3.3.0-beta1'
+//    ext.jmeOfficialVersion = '3.2.4-stable'
+//    ext.jmeOfficialVersion = '3.2.2-stable'
+    ext.jmeJitpackVersion = 'master-SNAPSHOT'
+
+    /** actual */
+//    ext.jmeGroup = ext.jmeJitpackGroup
+//    ext.jmeVersion = ext.jmeJitpackVersion
+
+    ext.jmeGroup = ext.jmeOfficialBuildGroup
+    ext.jmeVersion = ext.jmeOfficialVersion
+
+    repositories {
+        mavenCentral()
+        jcenter()
+        google()
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven { url 'http://dl.bintray.com/jmonkeyengine/org.jmonkeyengine' }
+}
+
+dependencies {
+    /** ------------------------------------------------------------------------
+     *   JMonkeyEngine and libraries
+     * ------------------------------------------------------------------------- */
+    compile "$jmeGroup:jme3-core:$jmeVersion"
+    compile "$jmeGroup:jme3-plugins:$jmeVersion"
+    compile "$jmeGroup:jme3-effects:$jmeVersion"
+    compile "$jmeGroup:jme3-desktop:$jmeVersion"
+    compile "$jmeGroup:jme3-lwjgl:$jmeVersion"
+    compile "org.jmonkeyengine:jme3-examples:$jmeVersion"
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
